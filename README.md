@@ -56,8 +56,8 @@ The Power BI dashboard includes:
 
 **Khushboo Masih**  
 MSc Data Science | Bachelor's in Business Administration 
-Email: [Email] (khushboomashih193@gmail.com)  
-LinkedIn: [LinkedIn](https://www.linkedin.com/in/khushboo-masih/)
+Email: khushboomashih193@gmail.com
+LinkedIn: https://www.linkedin.com/in/khushboo-masih/
 
 
 ## **License**
