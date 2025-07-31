@@ -55,10 +55,10 @@ The Power BI dashboard includes:
 ## **Author**
 
 **Khushboo Masih**  
-MSc Data Science
-khushboomasih193@gmail.com
-GitHub
-LinkedIn
+*MSc Data Science | BBA*  
+ [khushboomashih193@gmail.com](mailto:khushboomashih193@gmail.com)  
+ [GitHub](https://github.com/Khush505)  
+ [LinkedIn](https://www.linkedin.com/in/khushboo-masih/)
 
 ## **License**
 
